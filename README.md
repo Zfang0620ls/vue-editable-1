@@ -1,6 +1,6 @@
 # vue-editable
 Editable component.
-I use this component for online-editing of a SQLite database.
+For example to be used for online-editing within a table.
 
 # Initial
 Setup your project with vue-cli, for example using the webpack template.
