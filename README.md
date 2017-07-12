@@ -9,9 +9,10 @@ Add this file to your components folder.
 # Dependencies
 Add the vue-focus component to your project.
 
-npm install vue-focus --save
+`npm install vue-focus --save`
 
 # Example usage
+This is an example setup of a VueJS single file component consisting of a table with editable cells.
 ```
 <template>
 <div>
