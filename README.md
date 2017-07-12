@@ -13,6 +13,7 @@ Add the vue-focus component to your project.
 
 # Example usage
 This is an example setup of a VueJS single file component consisting of a table with editable cells.
+For styling Bulma and Font Awesome are used.
 ```
 <template>
 <div>
